@@ -1,0 +1,4 @@
+'instancia de IP 54.234.41.149 destruida' 
+'instancia creada con IP 54.165.114.228' 
+instancia de IP 54.165.114.228 destruida 
+instancia creada con IP 100.26.159.121 
